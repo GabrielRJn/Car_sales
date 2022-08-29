@@ -9,6 +9,7 @@ This project is a fun terminal simulation of buying cars written in C. It record
 * The maximum sales that the simulation allows is 10, however, this is easily modifiable in the code.
 * You can search for specific records (e.g. purchases of a specific quantity)
 * There are specific requirements for receiving car club membership
+* The simulation checks for incorrect input and does not allow invalid entries
 
 
 **View Sales menu option:**

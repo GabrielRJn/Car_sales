@@ -5,10 +5,10 @@ This project is a fun terminal simulation of buying cars written in C. It record
 
 
 **Key points**
-*No database required! - Once the the program closes (from choosing exit at the menu), it extracts the purchase data, and stores it into a CSV file which it reads from to find pre-existing purchases from customers.
-*The maximum sales that the simulation allows is 10, however, this is easily modifiable in the code.
-*You can search for specific records (e.g. purchases of a specific quantity)
-*There are specific requirements for receiving car club membership
+* No database required! - Once the the program closes (from choosing exit at the menu), it extracts the purchase data, and stores it into a CSV file which it reads from to find pre-existing purchases from customers.
+* The maximum sales that the simulation allows is 10, however, this is easily modifiable in the code.
+* You can search for specific records (e.g. purchases of a specific quantity)
+* There are specific requirements for receiving car club membership
 
 
 **View Sales menu option:**
@@ -23,11 +23,11 @@ This project is a fun terminal simulation of buying cars written in C. It record
 
 
 ## How to run the simulation
-1. Change the CSV file path to your own, the CSV definition is at the top of the page. **there is a forward slash for each sub directory**
+1.Change the CSV file path to your own, the CSV definition is at the top of the page. **there is a forward slash for each sub directory**
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/88378835/187122441-154760d7-1c2d-4610-b5d3-4f743961ba5b.png">
 
-2: The code is ok to run
+2.The code is ok to run
 
 When you exit from the menu options, you should see this message:
 

@@ -27,7 +27,7 @@ This project is a fun terminal simulation of buying cars written in C. It record
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/88378835/187122441-154760d7-1c2d-4610-b5d3-4f743961ba5b.png">
 
-2.The code is ok to run
+2.The code is now ok to run
 
 When you exit from the menu options, you should see this message:
 

@@ -24,7 +24,7 @@ This project is a fun terminal simulation of buying cars written in C. It record
 
 
 ## How to run the simulation
-1.Change the CSV file path to your own, the CSV definition is at the top of the page. **there is a forward slash for each sub directory**
+1.Change the CSV file path to your own, the CSV definition is at the top of the page. **There is a back slash for each sub directory**
 
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/88378835/187122441-154760d7-1c2d-4610-b5d3-4f743961ba5b.png">
 
